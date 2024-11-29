@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, Ben Ramazan Mehmet Bozdemir 👋
 
-<!--
-**RamazanMehmet/RamazanMehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum | Web Geliştirmeye Tutkulu
 
-Here are some ideas to get you started:
+## 📚 Hakkımda
+- 👨‍💻 Şu anda HTML, CSS ve JavaScript öğreniyorum ve web geliştirme becerilerimi sürekli olarak geliştiriyorum.
+- 🌱 JavaScript üzerinde çalışarak, frontend geliştirme konusundaki bilgimi artırmayı hedefliyorum.
+- 💬 Bana yazın: [bozdemirmehmet34@gmail.com](mailto:bozdemirmehmet34@gmail.com)
+- 📫 Beni şu platformlarda bulabilirsiniz: [LinkedIn](https://linkedin.com/in/yourprofile), [Twitter](https://twitter.com/yourhandle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kullandığım Araçlar & Teknolojiler
+- HTML, CSS, JavaScript
+- Git, GitHub
+- Visual Studio Code, Browser DevTools
+
+## 🚀 Şu Anda Üzerinde Çalıştığım Projeler
+- [Rose Art Design](https://roseartdesign.vercel.app) - Web sitem üzerinde çalışıyorum. HTML, CSS ve JavaScript ile geliştirdiğim frontend projelerimi burada bulabilirsiniz.
