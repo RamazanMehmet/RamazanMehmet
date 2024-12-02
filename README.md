@@ -1,6 +1,6 @@
 # Merhaba, Ben Ramazan Mehmet Bozdemir 👋
 
-Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum | Web Geliştirmeye Tutkulu
+Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum.
 
 ## 📚 Hakkımda
 - 👨‍💻 Şu anda HTML, CSS ve JavaScript öğreniyorum ve web geliştirme becerilerimi sürekli olarak geliştiriyorum.
@@ -14,4 +14,4 @@ Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum | Web Gelişt
 - Visual Studio Code
 
 ## 🚀 Şu Anda Üzerinde Çalıştığım Projeler
-- [Rose Art Design](https://roseartdesign.vercel.app) - Web sitem üzerinde çalışıyorum. HTML, CSS ve JavaScript ile geliştirdiğim frontend projelerimi burada bulabilirsiniz.
+- [Rose Art Design](https://roseartdesign.vercel.app) - Web sitem üzerinde çalışıyorum.
