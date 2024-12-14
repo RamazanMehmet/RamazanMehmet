@@ -1,4 +1,4 @@
-# Merhaba, Ben Ramazan Mehmet Bozdemir 👋
+# Merhaba, Ben Ramazan Mehmet 👋
 
 Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum.
 
@@ -9,7 +9,7 @@ Frontend Geliştirici Adayı | HTML, CSS, JavaScript Öğreniyorum.
 - 📫 Beni şu platformlarda bulabilirsiniz: [LinkedIn](www.linkedin.com/in/ramazan-mehmet-bozdemir-41545530b),
 
 ## 🔧 Kullandığım Araçlar & Teknolojiler
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript ve Bootstrap
 - Git, GitHub
 - Visual Studio Code
 
